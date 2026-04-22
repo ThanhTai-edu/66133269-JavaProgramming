@@ -6,5 +6,9 @@ class Run_Hoc_Sinh {
 		// TODO Auto-generated method stub
 
 	}
+	tao getr setr 123 
+	ákdkhwj
+	áodjjd
+	
 
 }
