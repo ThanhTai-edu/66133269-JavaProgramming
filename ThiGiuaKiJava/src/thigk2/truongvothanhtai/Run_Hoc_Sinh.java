@@ -9,6 +9,6 @@ class Run_Hoc_Sinh {
 	tao getr setr 123 
 	ákdkhwj
 	áodjjd
-	
+	adđ lên lần thứ 1
 
 }
